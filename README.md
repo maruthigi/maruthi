@@ -9,9 +9,9 @@
 </head>
 <body>
     <label>master</label>
-   <input type="text" id="user" style="width: 200px;margin: 10px; " placeholder="enter number one"/><br>
+   <input type="text" id="user" style="width: 200px;margin: 10px; " placeholder="enter number one" requied/><br>
    <label>student</label>
-   <input type="text" id="user1" style="width: 200px;margin: 10px;" placeholder="enter number two"/><br>
+   <input type="text" id="user1" style="width: 200px;margin: 10px;" placeholder="enter number two" requied/><br>
     <input type="button" value="+" onclick="my()" style="width: 50px; background-color: rgb(26, 21, 21); color: white; font-size: larger;"/>
     <input type="button" value="-" onclick="my1()" style="width: 50px; background-color: rgb(28, 22, 22); color: white; font-size: larger;"/>
     <input type="button" value="*" onclick="my2()" style="width: 50px; background-color: rgb(24, 20, 20); color: white; font-size: larger; "/>
