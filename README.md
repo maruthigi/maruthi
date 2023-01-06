@@ -1,5 +1,5 @@
-# maruthi
-visit my website:https://maruthigi.github.io/maruthi/
+# maruthi small project
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
